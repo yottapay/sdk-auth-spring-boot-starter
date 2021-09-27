@@ -1,0 +1,15 @@
+yotta-pay:
+  sdk:
+    auth:
+      base-url: 'localhost:8080'
+      credentials:
+        username: 'username'
+        password: 'password'
+      endpoints:
+        create-auth: '/create-auth'
+        exchange-token: '/exchange-token'
+        check-consent: '/check-consent'
+        full-name: '/full-name'
+        email: '/email'
+        phone-number: '/phone-number'
+        delivery-address: '/delivery-address'
