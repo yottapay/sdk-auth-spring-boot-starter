@@ -26,7 +26,7 @@
 
     <dependencies>
         <dependency>
-            <groupId>com.github.yottapayment</groupId>
+            <groupId>com.github.yottapay</groupId>
             <artifactId>sdk-auth</artifactId>
             <version>master-SNAPSHOT</version>
         </dependency>
